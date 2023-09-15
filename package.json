@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "format-currency": "^1.0.0",
+    "prompt-sync": "^4.2.0"
+  }
+}
